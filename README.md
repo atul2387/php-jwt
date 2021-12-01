@@ -2,6 +2,7 @@
 [![Latest Stable Version](https://poser.pugx.org/firebase/php-jwt/v/stable)](https://packagist.org/packages/firebase/php-jwt)
 [![Total Downloads](https://poser.pugx.org/firebase/php-jwt/downloads)](https://packagist.org/packages/firebase/php-jwt)
 [![License](https://poser.pugx.org/firebase/php-jwt/license)](https://packagist.org/packages/firebase/php-jwt)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fatul2387%2Fphp-jwt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fatul2387%2Fphp-jwt?ref=badge_shield)
 
 PHP-JWT
 =======
@@ -280,3 +281,7 @@ and not single quotes `''` in order to properly interpret the escaped characters
 License
 -------
 [3-Clause BSD](http://opensource.org/licenses/BSD-3-Clause).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fatul2387%2Fphp-jwt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fatul2387%2Fphp-jwt?ref=badge_large)
